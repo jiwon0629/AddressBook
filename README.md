@@ -1,8 +1,8 @@
 # AddressBook  
-주소록 관리 프로그램  
+ - 주소록 관리 프로그램  
 
 ## Language  
-<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+ - <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 ## myPj01  
  - 이름, 전화번호를 입력하여 추가하면 목록에 추가됩니다.
