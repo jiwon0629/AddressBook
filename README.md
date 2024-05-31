@@ -2,7 +2,7 @@
  - 주소록 관리 프로그램  
 
 ## Language  
- - <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+ - <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="57" height="57" /></div>  
 
 ## myPj01  
  - 이름, 전화번호를 입력하여 추가하면 목록에 추가됩니다.
